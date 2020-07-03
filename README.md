@@ -15,8 +15,8 @@ ___
   - [Installation](#installation)
   - [Usage](#usage)
 - [Test Results](#test-results)
-  - [Modern](modern-test-results)
-  - [Traditional](traditional-test-results)
+  - [Modern](#modern)
+  - [Traditional](#traditional)
 - [License](#license)
 - [Contact](#contact)
 
@@ -155,9 +155,9 @@ APP_VERSION=V2 TASK=3 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 
 ### Traditional
 
-- (Traditional Results for task 1, 2, 3 against V1 and all browsers)[./Traditional-V1-TestResults.txt]
+- (Traditional Results for task 1, 2, 3 against V1 and all browsers)[Traditional-V1-TestResults.txt]
 
-- (Traditional Results for task 1, 2, 3 against V2 and all browsers)[./Traditional-V2-TestResults.txt]
+- (Traditional Results for task 1, 2, 3 against V2 and all browsers)[Traditional-V2-TestResults.txt]
 
 
 ## License
