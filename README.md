@@ -135,29 +135,31 @@ APP_VERSION=V2 TASK=3 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 
 ## Test Results
 
+> Test folder can be found [here](https://github.com/dimitriharding/applitools-cross-browser-testing-hackathon/tree/master/cypress/integration)
+
 ### Modern
 
 > #### Task 1
-- The batch results for the modern test task 1 against V1 can be found [here](https://eyes.applitools.com/app/test-results/00000251811149104363/?accountId=ybC-3D_4F0yFPODvsoaRcg~~)
+- The batch results for the modern test task 1 against V1 can be found [here](https://eyes.applitools.com/app/test-results/00000251811149104363?accountId=ybC-3D_4F0yFPODvsoaRcg~~&display=details&top=00000251810132933558%2818%29)
 
-- The batch results for the modern test task 1 against V2 can be found [here](https://eyes.applitools.com/app/test-results/00000251811149007334/?accountId=ybC-3D_4F0yFPODvsoaRcg~~)
+- The batch results for the modern test task 1 against V2 can be found [here](https://eyes.applitools.com/app/test-results/00000251811149007334?accountId=ybC-3D_4F0yFPODvsoaRcg~~&display=details&top=00000251810132933558%2818%29)
 
 > #### Task 2
-- The batch results for the modern test task 2 against V1 can be found [here](https://eyes.applitools.com/app/test-results/00000251811055030325/?accountId=ybC-3D_4F0yFPODvsoaRcg~~)
+- The batch results for the modern test task 2 against V1 can be found [here](https://eyes.applitools.com/app/test-results/00000251811056078764?accountId=ybC-3D_4F0yFPODvsoaRcg~~&display=details&top=00000251810132933558%2818%29)
 
-- The batch results for the modern test task 2 against V2 can be found [here](https://eyes.applitools.com/app/test-results/00000251811054772292/?accountId=ybC-3D_4F0yFPODvsoaRcg~~)
+- The batch results for the modern test task 2 against V2 can be found [here](https://eyes.applitools.com/app/test-results/00000251811054772292?accountId=ybC-3D_4F0yFPODvsoaRcg~~&display=details&top=00000251810132933558%2818%29)
 
 
 > #### Task 3
-- The batch results for the modern test task 3 against V1 can be found [here](https://eyes.applitools.com/app/test-results/00000251810802881991/?accountId=ybC-3D_4F0yFPODvsoaRcg~~)
+- The batch results for the modern test task 3 against V1 can be found [here](https://eyes.applitools.com/app/test-results/00000251810803092127?accountId=ybC-3D_4F0yFPODvsoaRcg~~&display=details&top=00000251810132933558%2818%29)
 
-- The batch results for the modern test task 3 against V2 can be found [here](https://eyes.applitools.com/app/test-results/00000251810802835103/?accountId=ybC-3D_4F0yFPODvsoaRcg~~)
+- The batch results for the modern test task 3 against V2 can be found [here](https://eyes.applitools.com/app/test-results/00000251810802835103?accountId=ybC-3D_4F0yFPODvsoaRcg~~&display=details&top=00000251810132933558%2818%29)
 
 ### Traditional
 
-- (Traditional Results for task 1, 2, 3 against V1 and all browsers)[Traditional-V1-TestResults.txt]
+- Traditional Results for task 1, 2, 3 against V1 and all browsers can be found [here](https://github.com/dimitriharding/applitools-cross-browser-testing-hackathon/blob/master/Traditional-V1-TestResults.txt)
 
-- (Traditional Results for task 1, 2, 3 against V2 and all browsers)[Traditional-V2-TestResults.txt]
+- Traditional Results for task 1, 2, 3 against V2 and all browsers can be found [here](https://github.com/dimitriharding/applitools-cross-browser-testing-hackathon/blob/master/Traditional-V2-TestResults.txt)
 
 
 ## License
