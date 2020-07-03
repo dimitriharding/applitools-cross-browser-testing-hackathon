@@ -1,0 +1,30 @@
+{
+  "name": "applitools-cross-browser-testing-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:chrome": "cypress run --browser chrome",
+    "cy:firefox": "cypress run --browser firefox",
+    "cy:edge": "cypress run --browser edge",
+    "cy:chrome:tablet": "npm run cy:chrome -- --env device=tablet",
+    "cy:firefox:tablet": "npm run cy:firefox -- --env device=tablet",
+    "cy:edge:tablet": "npm run cy:edge -- --env device=tablet",
+    "cy:mobile": "npm run cy:chrome -- --env device=mobile",
+    "modern:tests": "cross-env APP_VERSION=$APP_VERSION TASK=$TASK cypress run --spec ./cypress/integration/ModernTests$APP_VERSION/task$TASK.spec.js",
+    "traditional:tests": "cross-env APP_VERSION=$APP_VERSION BROWSER=$BROWSER TASK=$TASK npm run cy:$BROWSER -- --spec ./cypress/integration/TraditionalTests$APP_VERSION/task$TASK.spec.js"
+
+  },
+  "author": "Dimitri Harding @irtimid.harding",
+  "license": "MIT", 
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.11.1",
+    "cross-env": "^7.0.2",
+    "cypress": "^4.8.0",
+    "cypress-dotenv": "^1.2.1",
+    "dotenv": "^8.2.0"
+  }
+}

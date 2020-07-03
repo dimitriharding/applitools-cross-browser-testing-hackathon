@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://demo.applitools.com",
+  "env": {
+    "device": "laptop"
+  },
+  "video": false,
+  "projectId": "84eboz",
+  "firefoxGcInterval": {
+    "runMode": null,
+    "openMode": null
+  }
+}

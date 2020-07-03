@@ -1,0 +1,525 @@
+Task: 1, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should be displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: List View icon should be displayed, DOM Id: I__tiviewlist__204, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filters Open Icon should not be displayed, DOM Id: ti-filter, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__225, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__250, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__272, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__294, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__316, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__338, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__360, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__385, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__407, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__229, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__254, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__276, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__298, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__320, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__342, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__364, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__389, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__411, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__233, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__258, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__280, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__302, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__324, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__346, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__368, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__393, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__415, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Quick Links section should be expanded in footer, DOM Id: collapse_1, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Contacts section should be expanded in footer, DOM Id: collapse_3, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be expanded in footer, DOM Id: collapse_4, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filter Column should  be displayed, DOM Id: filter_col, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Mobile search button should not be displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Navbar should be displayed, DOM Id: UL____21, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should not be displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: List View icon should not be displayed, DOM Id: I__tiviewlist__204, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Open Filter icon should be displayed, DOM Id: ti-filter, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__250, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__272, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__294, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__316, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__338, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__360, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__385, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__407, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__254, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__276, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__298, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__320, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__342, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__364, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__389, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__411, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__258, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__280, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__302, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__324, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__346, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__368, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__393, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__415, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Quick Links section should be expanded in footer, DOM Id: collapse_1, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Contacts section should be expanded in footer, DOM Id: collapse_3, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be expanded in footer, DOM Id: collapse_4, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Filter Column should not be displayed, DOM Id: filter_col, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Mobile search button should not be displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should be displayed, DOM Id: A__wishlist__52, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: List View icon should be displayed, DOM Id: I__tiviewlist__204, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filters Open Icon should not be displayed, DOM Id: ti-filter, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__225, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__250, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__272, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__294, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__316, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__338, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__360, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__385, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__407, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__229, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__254, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__276, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__298, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__320, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__342, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__364, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__389, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__411, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__233, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__258, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__280, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__302, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__324, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__346, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__368, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__393, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__415, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Quick Links section should be expanded in footer, DOM Id: collapse_1, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Contacts section should be expanded in footer, DOM Id: collapse_3, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be expanded in footer, DOM Id: collapse_4, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filter Column should  be displayed, DOM Id: filter_col, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Mobile search button should not be displayed, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Navbar should be displayed, DOM Id: UL____21, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should not be displayed, DOM Id: A__wishlist__52, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: List View icon should not be displayed, DOM Id: I__tiviewlist__204, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Open Filter icon should be displayed, DOM Id: ti-filter, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__250, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__272, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__294, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__316, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__338, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__360, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__385, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__407, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__254, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__276, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__298, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__320, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__342, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__364, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__389, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__411, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__258, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__280, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__302, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__324, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__346, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__368, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__393, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__415, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Quick Links section should be expanded in footer, DOM Id: collapse_1, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Contacts section should be expanded in footer, DOM Id: collapse_3, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be expanded in footer, DOM Id: collapse_4, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Filter Column should not be displayed, DOM Id: filter_col, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Mobile search button should not be displayed, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should be displayed, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: List View icon should be displayed, DOM Id: I__tiviewlist__204, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filters Open Icon should not be displayed, DOM Id: ti-filter, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__225, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__250, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__272, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__294, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__316, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__338, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__360, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__385, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__407, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__229, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__254, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__276, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__298, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__320, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__342, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__364, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__389, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__411, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__233, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__258, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__280, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__302, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__324, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__346, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__368, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__393, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__415, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Quick Links section should be expanded in footer, DOM Id: collapse_1, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Contacts section should be expanded in footer, DOM Id: collapse_3, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be expanded in footer, DOM Id: collapse_4, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Filter Column should  be displayed, DOM Id: filter_col, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Mobile search button should not be displayed, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Navbar should be displayed, DOM Id: UL____21, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 1, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should not be displayed, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: List View icon should not be displayed, DOM Id: I__tiviewlist__204, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Filters label should be displayed, DOM Id: SPAN____208, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Open Filter icon should be displayed, DOM Id: ti-filter, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__250, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__272, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__294, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__316, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__338, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__360, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__385, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__407, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__254, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__276, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__298, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__320, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__342, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__364, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__389, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__411, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__258, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__280, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__302, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__324, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__346, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__368, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__393, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__415, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Quick Links section should be expanded in footer, DOM Id: collapse_1, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Contacts section should be expanded in footer, DOM Id: collapse_3, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be expanded in footer, DOM Id: collapse_4, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Filter Column should not be displayed, DOM Id: filter_col, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Mobile search button should not be displayed, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 1, Test Name: Search field should not be displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Wishlist heart icon should not be displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Grid View icon should not be displayed, DOM Id: I__tiviewgrid__202, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: List View icon should not be displayed, DOM Id: I__tiviewlist__204, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Filters label should not be displayed, DOM Id: SPAN____208, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Open Filter icon should be displayed, DOM Id: ti-filter, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__250, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__272, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__294, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__316, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__338, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__360, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__385, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__407, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__254, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__276, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__298, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__320, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__342, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__364, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__389, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__411, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__258, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__280, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__302, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__324, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__346, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__368, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__393, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__415, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Filter Column should not be displayed, DOM Id: filter_col, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Number of cart items should not be displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 1, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__225, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__247, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__229, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__251, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__233, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__255, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__247, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__251, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__255, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__225, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__247, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__229, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__251, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__233, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__255, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__247, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__251, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__255, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__225, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should not be displayed for all products, DOM Id: I__tiheart__247, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__229, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Compare icon should not be displayed for all products, DOM Id: I__ticontrols__251, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__233, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Add to Cart icon should not be displayed for all products, DOM Id: I__tishopping__255, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__247, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__251, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__255, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 0, DOM Id: DIV__griditem__211, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter by Black color, there should only be two results - 1, DOM Id: DIV__griditem__236, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____218, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Shoes name should be displayed for all products, DOM Id: H3____241, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__220, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: New price should be displayed for all products, DOM Id: SPAN__newprice__243, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__215, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: A product image should be present for all products, DOM Id: IMG__imgfluid__239, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__225, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Add to Favorite icon should be displayed for all products, DOM Id: I__tiheart__247, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__229, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Add to Compare icon should be displayed for all products, DOM Id: I__ticontrols__251, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__233, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 2, Test Name: Add to Cart icon should be displayed for all products, DOM Id: I__tishopping__255, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Navbar should be displayed, DOM Id: UL____21, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Navbar should be displayed, DOM Id: UL____21, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Navbar should be displayed, DOM Id: UL____21, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Search field should be displayed, DOM Id: INPUTtext____42, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 768x700, Device: tablet, Status: Pass
+Task: 3, Test Name: Size format should be [Size (capital first letter of size)] - example Small (S), DOM Id: OPTION____94, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The product image should be displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Price should be displayed properly with cents, DOM Id: new_price, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The Old price should be greyed out and have line-through, and have cents, DOM Id: old_price, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should not overlay the Quantity option, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The 'Add to Cart' button should be displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The account and wishlist icon should not overlap, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The wishlist and cart icon should not overlap, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The profile icon should be displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The wishlist icon should be displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: The cart icon should be displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: SKU details should be displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Discount details should be displayed, DOM Id: discount, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Review details should be displayed, DOM Id: EM____82, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Search field should not be displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Navbar should not be displayed, DOM Id: UL____21, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Quick Links section should be collapsed in footer, DOM Id: collapse_1, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Contacts section should be collapsed in footer, DOM Id: collapse_3, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Keep In Touch section should be collapsed in footer, DOM Id: collapse_4, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Number of cart items should be displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
+Task: 3, Test Name: Mobile search button should be displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 375x812, Device: mobile, Status: Pass
