@@ -54,7 +54,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-git clone 
+git clone https://github.com/dimitriharding/applitools-cross-browser-testing-hackathon.git
 ```
 
 2. Navigate to the root of the project
