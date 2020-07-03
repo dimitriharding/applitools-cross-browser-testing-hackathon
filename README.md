@@ -110,24 +110,28 @@ APP_VERSION=V2 TASK=3 npm run modern:tests
 ```sh
 # Run all traditional tests (task 1, 2, 3) on a specific browser and viewport 
 # against version one (1) of the app
+# example: APP_VERSION=V1 TASK=* BROWSER=chrome npm run traditional:tests
 APP_VERSION=V1 TASK=* BROWSER=[BROWSER_OPTION] npm run traditional:tests
 ```
 
 ```sh
 # Run all traditional tests (task 1, 2, 3) on a specific browser and viewport 
 # against version two (2) of the app
-APP_VERSION=V1 TASK=* BROWSER=[BROWSER_OPTION] npm run traditional:tests
+# example: APP_VERSION=V2 TASK=* BROWSER=firefox npm run traditional:tests
+APP_VERSION=V2 TASK=* BROWSER=[BROWSER_OPTION] npm run traditional:tests
 ```
 
 ```sh
-# Run specific traditional tests (task 1, 2, 3) against version two (1) of the app 
+# Run specific traditional tests (task 1, 2, 3) against version one (1) of the app 
+# example: APP_VERSION=V1 TASK=1 BROWSER=mobile npm run traditional:tests
 APP_VERSION=V1 TASK=1 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 APP_VERSION=V1 TASK=2 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 APP_VERSION=V1 TASK=3 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 ```
 
 ```sh
-# Run specific traditional tests (task 1, 2, 3) against version two (1) of the app 
+# Run specific traditional tests (task 1, 2, 3) against version two (2) of the app 
+# example: APP_VERSION=V2 TASK=2 BROWSER=edge:tablet npm run traditional:tests
 APP_VERSION=V2 TASK=1 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 APP_VERSION=V2 TASK=2 BROWSER=[BROWSER_OPTION] npm run traditional:tests
 APP_VERSION=V2 TASK=3 BROWSER=[BROWSER_OPTION] npm run traditional:tests
